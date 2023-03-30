@@ -54,7 +54,7 @@ Schalk | Andrea | University of Manchester | Senior Lecturer | http://www.cs.man
 Silva | Alexandra | Cornell University | Professor | alexandrasilva.org | software design, system of systems, software systems modeling, data management
 Sobral | Manuela | Universidade de Coimbra | | |
 Srinivasan | Priyaa Varshinee | University of Calgary (Canada) | PhD Student | | category theory and applications to quantum mechanics
-Tenorio | Ana Luiza | University of São Paulo (Brasil) | PhD Student | | sheaves, quantales, sheaf cohomology
+Tenorio | Ana Luiza | University of São Paulo (Brasil) | PhD Student | https://sites.google.com/ime.usp.br/analuizatenorio/about | sheaves, quantales, sheaf cohomology
 Torzewska | Fiona | University of Leeds | PhD Student | | topological quantum field theory, applied category theory, higher category theory
 VanDieren | Monica | Robert Morris University (USA) | University Professor of Mathematics | https://www.linkedin.com/in/monica-vandieren/ | model theory, category theory, research in undergraduate math and interdisciplinary education
 Vasilakopoulou | Christina | University of Patras (Greece) | Researcher | https://thalis.math.upatras.gr/~cvasilak/ | monoidal categories, enriched categories, applications to systems theory
